@@ -7,4 +7,7 @@ package com.zzh.test;
  * Created by Amazing
  */
 public class test01 {
+    public static void main(String[] args) {
+        System.out.println("你好");
+    }
 }
